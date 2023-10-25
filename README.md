@@ -2,10 +2,10 @@
 ![portada_juego](https://github.com/macachana/Descubre_palabras_UTN/assets/123892029/69526449-7a9b-48c3-b881-351ef8207766)
 
 ## DATOS DEL ALUMNO
-nombre y apellido = Macarena Chanampa 1B
-dni = 45779144
-año = 2023
-primer parcial de programacion / laboratorio
+### nombre y apellido = Macarena Chanampa 1B
+### dni = 45779144
+### año = 2023
+### primer parcial de programacion / laboratorio
 
 
 ## DESCRIPCION
