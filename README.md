@@ -13,7 +13,7 @@ Juego realizado para el parcial de Programación / Laboratorio de la UTN (Facult
 ![portada_juego_2](https://github.com/macachana/Descubre_palabras_UTN/assets/123892029/2b877ad1-ade3-4d70-bac9-c116db35f56c)
 
 ## VIDEO
-[Video](https://youtu.be/QcyeE9yaRtc)
+[Video](https://youtu.be/2K0aqsmpK8Q)
 
 ## GDB CODIGO PRINCIPAL
 [codigo_gdb](https://onlinegdb.com/4u0elDIlB)
