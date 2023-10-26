@@ -13,4 +13,20 @@ Juego realizado para el parcial de Programación / Laboratorio de la UTN (Facult
 ![portada_juego_2](https://github.com/macachana/Descubre_palabras_UTN/assets/123892029/2b877ad1-ade3-4d70-bac9-c116db35f56c)
 
 ## VIDEO
-[video] ()
+[video] (https://youtu.be/LYXnYcDqaMM)
+
+## GDB CODIGO PRINCIPAL
+[codigo_gdb](https://onlinegdb.com/4u0elDIlB)
+
+## GDB MODULO FUNCIONES
+[modulo_funciones_gdb](https://onlinegdb.com/kvDqhJ_jK)
+
+## GDB MODULO COLORES Y FONTS
+[modulo_colores_fonts](https://onlinegdb.com/orRw6ld1_)
+
+## GDB MODULO FONDOS
+[modulo_fondos](https://onlinegdb.com/6gouKWVvS)
+
+## GDB MODULO DE NIVELES
+[modulo_niveles](https://onlinegdb.com/eLtkB8XyP)
+
