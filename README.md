@@ -1,3 +1,9 @@
+# informacion tecnica 
+### ¿como puedo jugar?
+### clonar el repositorio en tu pc o descargar el archivo ZIP y luego descomprimirlo.
+### tener descargado el visual studio code.
+### abrir el repositorio en el visual studio y luego ejecutarlo.
+
 # Descubre_palabras_UTN
 ![portada_juego](https://github.com/macachana/Descubre_palabras_UTN/assets/123892029/69526449-7a9b-48c3-b881-351ef8207766)
 
